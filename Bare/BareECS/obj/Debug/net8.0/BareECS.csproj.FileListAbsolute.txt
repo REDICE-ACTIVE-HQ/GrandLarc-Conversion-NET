@@ -1,0 +1,17 @@
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\BareECS\obj\Debug\net8.0\BareECS.csproj.AssemblyReference.cache
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\BareECS\obj\Debug\net8.0\BareECS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\BareECS\obj\Debug\net8.0\BareECS.AssemblyInfoInputs.cache
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\BareECS\obj\Debug\net8.0\BareECS.AssemblyInfo.cs
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\BareECS\obj\Debug\net8.0\BareECS.csproj.CoreCompileInputs.cache
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\BareECS\obj\Debug\net8.0\BareECS.sourcelink.json
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\ngs-server\bin\net8.0\BareECS.exe
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\ngs-server\bin\net8.0\BareECS.deps.json
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\ngs-server\bin\net8.0\BareECS.runtimeconfig.json
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\ngs-server\bin\net8.0\BareECS.dll
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\ngs-server\bin\net8.0\BareECS.pdb
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\BareECS\obj\Debug\net8.0\BareECS.csproj.Up2Date
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\BareECS\obj\Debug\net8.0\BareECS.dll
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\BareECS\obj\Debug\net8.0\refint\BareECS.dll
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\BareECS\obj\Debug\net8.0\BareECS.pdb
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\BareECS\obj\Debug\net8.0\BareECS.genruntimeconfig.cache
+C:\Users\zakar\Desktop\vyd-projects\GrandLarc-Conversion-NET\Bare\BareECS\obj\Debug\net8.0\ref\BareECS.dll
